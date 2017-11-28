@@ -20,6 +20,7 @@ public class RandomNumbers {
 		
 		for(int i = 0; i < 1000; ++i){
 			x[i] = (float)1.0;
+		
 		}
 		
 		
