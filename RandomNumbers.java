@@ -6,7 +6,7 @@
  * 									(Print every 50th)
  *
  * @author - Eric Schenck
- * last modified: November 28, 2017
+ * last modified: November 30, 2017
  *   
  */
 public class RandomNumbers {
